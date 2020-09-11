@@ -1,0 +1,10 @@
+gradle/
+release/
+gradlew
+gradlew.bat
+.gradle/
+.idea/
+local.properties
+build/intermediates
+build/outputs
+build/reports
